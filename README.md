@@ -1,4 +1,4 @@
-# fastapi-example [![CircleCI](https://circleci.com/gh/marciovrl/fastapi-example.svg?style=svg)](https://circleci.com/gh/marciovrl/fastapi-example)
+# fastapi-example
 
 A simple example of using Fast API in Python.
 
@@ -9,7 +9,7 @@ A simple example of using Fast API in Python.
 ## Clone the project
 
 ```
-git clone https://github.com/marciovrl/fastapi-example.git
+git clone https://github.com/rock-pydev/fastapi.git
 ```
 
 ## Run local
